@@ -1,5 +1,7 @@
 # TypeVim
 
+This is an implemantation of the vim editor on the browser, where the only dependency is typescript.
+
 ## Reference
 
 - [Understanding The Canvas Measure Text Metrics](https://erikonarheim.com/posts/canvas-text-metrics)
@@ -8,8 +10,9 @@
 ## Developing
 
 ```console
-npm run install
+npm install
 npm run build
+xdg-open index.html
 ```
 
 ```console
