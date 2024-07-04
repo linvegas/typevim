@@ -2,7 +2,7 @@
 
 This is an implemantation of the vim editor on the browser, where the only dependency is typescript.
 
-[Demo](https://github.com/linvegas/typevim/blob/main/demo.png?raw=true)
+![Demo](https://github.com/linvegas/typevim/blob/main/demo.png?raw=true)
 
 ## Reference
 
